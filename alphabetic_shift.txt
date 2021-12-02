@@ -1,0 +1,2 @@
+Given a string, replace each ist character by the next one in the english alphabet ( z would be replaced by a)
+example: For input "crazy" the output should be  "dsbaz"
